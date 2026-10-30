@@ -1,0 +1,14 @@
+# study data and prototype screenshots (not mine to share)
+folder/
+jb_heatmaps/
+*.json
+*.jpeg
+*.jpg
+
+# generated images
+heatmaps/
+
+__pycache__/
+.venv/
+.vscode/
+.idea/
